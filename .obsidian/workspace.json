@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "41edd1e9e6ad3867",
+    "type": "split",
+    "children": [
+      {
+        "id": "083ea7f5bf65d0f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "714a4565624a5e3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "USXML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d457f638894a0d1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WI00766730 - (OOQ) (BWQ) - Searching Filter for OOQ, QB, BWQ and Support for Universal Shipment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acf50532deaa9064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WI00782110 - ATR Support Container Mode for SHP & QSH in Autorating Date Filtering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af71380fcc0361d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WI00795258 - SQL CPU Usage alert for Rating - E028A0CE3234BC68D1043B12BC1C3228.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ca8576a36e0918f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WI00800183 - When using CTB - company Tariff calculator in a clients rates its not working.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8bb1aeef4b96ecf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4780fb0f09931c54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2e58e826cd55fcf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4a85426b7b758bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Reporting  ",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb64d3064495d6c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "957b56176eaf821c",
+    "type": "split",
+    "children": [
+      {
+        "id": "07c911fb5778932e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9875f9767e42be3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WI00800183 - When using CTB - company Tariff calculator in a clients rates its not working.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "534997ae67776f42",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WI00800183 - When using CTB - company Tariff calculator in a clients rates its not working.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52a57655e047e472",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a086ed560213cd50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WI00800183 - When using CTB - company Tariff calculator in a clients rates its not working.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2ca8576a36e0918f",
+  "lastOpenFiles": [
+    "WI00795258 - SQL CPU Usage alert for Rating - E028A0CE3234BC68D1043B12BC1C3228.md",
+    "WI00766730 - (OOQ) (BWQ) - Searching Filter for OOQ, QB, BWQ and Support for Universal Shipment.md",
+    "WI00800183 - When using CTB - company Tariff calculator in a clients rates its not working.md",
+    "WI00782110 - ATR Support Container Mode for SHP & QSH in Autorating Date Filtering.md",
+    "WI - Automate Performance Reports.md",
+    "Reports.md",
+    "Queries and Entity Framework.md",
+    "Nuget Deployment Demo.md",
+    "daily/2024-09-04.md",
+    "daily",
+    "attachments/Pasted image 20240827161033.png",
+    "attachments/Pasted image 20240827161021.png",
+    "USXML.md",
+    "FlattenIntoAttributes.md",
+    "attachments/Pasted image 20240826163558.png",
+    "attachments/Pasted image 20240826155925.png",
+    "attachments/Pasted image 20240819122422.png",
+    "attachments/Pasted image 20240826155749.png",
+    "attachments",
+    "Native XML.md",
+    "attachments/Pasted image 20240819121709.png",
+    "attachments/Pasted image 20240819120852.png",
+    "Making a query with joins.md",
+    "Untitled.canvas",
+    "attachments/Pasted image 20240716135507.png",
+    "attachments/Pasted image 20240709165306.png",
+    "images"
+  ]
+}
