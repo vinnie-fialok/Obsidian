@@ -10,4 +10,5 @@ When Company Tariff rate is setup based on WKP calculator, Results Checkbox on c
 Take note that autorating works correctly. only UI in client rates does not show the correct values.
 
 ## Investigation
-**Change needs to be made in `WarehousePackCalculator.cs`**. Specifically at `WarehousePackCalculator::CloneLineItemsUpdatingRateValue(`
+**Change needs to be made in `WarehousePackCalculator.cs`**. Specifically at `WarehousePackCalculator::CloneLineItemsUpdatingRateValue(...) :: 361`.
+
