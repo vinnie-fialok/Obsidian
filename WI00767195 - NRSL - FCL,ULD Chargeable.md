@@ -26,15 +26,15 @@ tags:
 
 The **ChargeableOverride** field in the dto is equivalent to the sum of weight or volume:
 ```csharp
-var totalWeightInKG =
-				jobInfo
-					.Containers
-					.Sum(c => c?.PackLines?.Sum(p => Core.Constants.Weight.Convert(p?.Weight ?? 0, p?.WeightUnit ?? Core.Constants.Weight.Kilograms, Core.Constants.Weight.Kilograms)));
+var totalWeightInKG = 
+	jobInfo
+		.Containers
+		.Sum(c => c?.PackLines?.Sum(p => Core.Constants.Weight.Convert(p?.Weight ?? 0, p?.WeightUnit ?? Core.Constants.Weight.Kilograms, Core.Constants.Weight.Kilograms)));
 
-			var totalVolumeInM3 =
-				jobInfo
-					.Containers
-					.Sum(c => c?.PackLines?.Sum(p => Core.Constants.Volume.Convert(p?.Volume ?? 0, p?.VolumeUnit ?? Core.Constants.Volume.CubicMetres, Core.Constants.Volume.CubicMetres)));
+var totalVolumeInM3 = 
+	jobInfo
+		.Containers
+		.Sum(c => c?.PackLines?.Sum(p => Core.Constants.Volume.Convert(p?.Volume ?? 0, p?.VolumeUnit ?? Core.Constants.Volume.CubicMetres, Core.Constants.Volume.CubicMetres)));
 ```
 
 - [x] **We require "Chargeable weight" and "Chargeable volume" fields to be visible for FCL/ULD containers - see Figma for what this should look like.**
