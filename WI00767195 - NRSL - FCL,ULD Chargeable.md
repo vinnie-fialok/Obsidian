@@ -24,3 +24,4 @@ tags:
 	- [ ] Investigate the above
 - [x] **We require "Chargeable weight" and "Chargeable volume" fields to be visible for FCL/ULD containers - see Figma for what this should look like.**
 - [ ] **Should the chips match the figma? (asked Mitchell)**
+- [ ] **Investigate, or just ask, how to make a rate in the db**
