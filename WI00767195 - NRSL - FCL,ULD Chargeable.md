@@ -19,3 +19,8 @@ tags:
 > [!INFO] **LCL**
 > ![[Pasted image 20240917110723.png]]
 
+## TODO:
+- [ ] **This may require API changes to support specifying the chargeable amount on a per-container/per-packline basis - please investigate this.**
+	- [ ] Investigate the above
+- [x] **We require "Chargeable weight" and "Chargeable volume" fields to be visible for FCL/ULD containers - see Figma for what this should look like.**
+- [ ] **Should the chips match the figma? (asked mitchell)**
