@@ -18,3 +18,4 @@ tags:
 
 > [!INFO] **LCL**
 > ![[Pasted image 20240917110723.png]]
+
