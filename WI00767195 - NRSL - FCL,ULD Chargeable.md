@@ -22,6 +22,20 @@ tags:
 ## TODO:
 - [ ] **This may require API changes to support specifying the chargeable amount on a per-container/per-packline basis - please investigate this.**
 	- [ ] Investigate the above
-	- [ ] **Investigate, or just ask, how to make a rate in the db.**
+	- [x] **Investigate, or just ask, how to make a rate in the db.**
+
+The **ChargeableOverride** field in the dto is equivalent to the sum of weight or volume:
+```csharp
+var totalWeightInKG =
+				jobInfo
+					.Containers
+					.Sum(c => c?.PackLines?.Sum(p => Core.Constants.Weight.Convert(p?.Weight ?? 0, p?.WeightUnit ?? Core.Constants.Weight.Kilograms, Core.Constants.Weight.Kilograms)));
+
+			var totalVolumeInM3 =
+				jobInfo
+					.Containers
+					.Sum(c => c?.PackLines?.Sum(p => Core.Constants.Volume.Convert(p?.Volume ?? 0, p?.VolumeUnit ?? Core.Constants.Volume.CubicMetres, Core.Constants.Volume.CubicMetres)));
+```
+
 - [x] **We require "Chargeable weight" and "Chargeable volume" fields to be visible for FCL/ULD containers - see Figma for what this should look like.**
 - [ ] **Should the chips match the figma? (asked Mitchell)**
