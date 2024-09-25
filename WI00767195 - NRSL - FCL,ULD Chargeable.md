@@ -40,3 +40,4 @@ var totalVolumeInM3 =
 
 - [x] **We require "Chargeable weight" and "Chargeable volume" fields to be visible for FCL/ULD containers - see Figma for what this should look like.**
 - [ ] **Should the chips match the figma? (asked Mitchell)**
+- [ ] We get charged (`LCL`) for container and weight, which we should not. Perhaps modify the adapter to account for this.
