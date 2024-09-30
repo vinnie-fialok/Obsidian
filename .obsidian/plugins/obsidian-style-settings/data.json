@@ -2,7 +2,7 @@
   "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-macchiato",
   "shiba-theme-settings@@shiba-colors-theme-light": "default-light-theme",
   "shiba-theme-settings@@shiba-colors-theme-dark": "warm-dark",
-  "shimmering-focus@@angular-shapes": true,
+  "shimmering-focus@@angular-shapes": false,
   "shimmering-focus@@mac-os-native": false,
   "Appearance-dark@@card-layout-open-dark": true,
   "Components@@CTA-BTN-enable": false,
