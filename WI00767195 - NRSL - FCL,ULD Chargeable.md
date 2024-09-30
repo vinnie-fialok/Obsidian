@@ -39,6 +39,16 @@ var totalVolumeInM3 =
 ```
 
 - [x] **We require "Chargeable weight" and "Chargeable volume" fields to be visible for FCL/ULD containers - see Figma for what this should look like.**
-- [ ] **Should the chips match the figma? (asked Mitchell)**
-- [ ] We get charged (`LCL`) for container and weight, which we should not. Perhaps modify the adapter to account for this.
+- [x] **Should the chips match the figma? (asked Mitchell)**
+- [x] We get charged (`LCL`) for container and weight, which we should not. Perhaps modify the adapter to account for this.
 ![[Pasted image 20240930140409.png]]
+
+> [!info] HAVE TO SET REGISTRY FOR CHARGAEBLE TO BE USED
+```csharp
+var roundings = new DefaultRoundingsCollection();
+var rounding = roundings.AddNew();
+rounding.Code = RatingConstants.RateCategory.LCL;
+rounding.RoundingType = RatingRoundingTypes.Chargeable;
+
+using (DataRegistryRating.Instance.DefaultRounding.SetTemporaryValue(Guid.Empty, Guid.Empty, Guid.Empty, roundings))
+```
