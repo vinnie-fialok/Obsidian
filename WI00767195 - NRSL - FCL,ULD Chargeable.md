@@ -4,6 +4,10 @@ tags:
   - WI
 pr: https://devops.wisetechglobal.com/wtg/Glow/_git/Glow/pullrequest/271830
 ---
+## TODO
+- [ ] CLEANUP DTOS ON API
+- [ ] CLEANUP DTOS ON FRONTEND
+
 ## Setup that returns results
 ![[Pasted image 20240917104459.png]]
 ## What should be enabled:
