@@ -5,9 +5,9 @@ tags:
 pr: https://devops.wisetechglobal.com/wtg/Glow/_git/Glow/pullrequest/271830
 ---
 ## TODO
-- [ ] CLEANUP DTOS ON API
-- [ ] CLEANUP DTOS ON FRONTEND
-- [ ] FIX VARIABLE NAMES IN TEST
+- [x] CLEANUP DTOS ON API
+- [x] CLEANUP DTOS ON FRONTEND
+- [x] FIX VARIABLE NAMES IN TEST
 
 ## Setup that returns results
 ![[Pasted image 20240917104459.png]]
