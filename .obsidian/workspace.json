@@ -59,9 +59,11 @@
             "id": "ee2231d4faf8bd2b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachments/Pasted image 20241008160116.png"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/Pasted image 20241008160116.png",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachments/Pasted image 20241008160116.png",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/Pasted image 20241008160116.png"
+                "file": "Untitled.md"
               }
             }
           },
@@ -205,8 +207,9 @@
   },
   "active": "ee2231d4faf8bd2b",
   "lastOpenFiles": [
-    "Untitled.md",
+    "USXML.md",
     "attachments/Pasted image 20241008160116.png",
+    "Untitled.md",
     "WI00799571 - (ATR) Add Autorating Log for printing Dest. Charges on HBL,HAWB.md",
     "attachments/Pasted image 20241003114613.png",
     "attachments/Pasted image 20241003114554.png",
@@ -224,7 +227,6 @@
     "Team Choice.md",
     "Completed WIS/WI00766730 - (OOQ) (BWQ) - Searching Filter for OOQ, QB, BWQ and Support for Universal Shipment.md",
     "Queries and Entity Framework.md",
-    "USXML.md",
     "Reports.md",
     "Nuget Deployment Demo.md",
     "Completed WIS/WI - Automate Performance Reports.md",
