@@ -6,3 +6,9 @@ Perhaps a difference between `CompanyTarrif.cs` and `Costing.cs`
 
 1. It deleted and removes from the collection, but it isn't actually deleted from the db
 2. We check against the db
+
+Option 1:
+Save then rollback
+
+Object 2:
+Remove the new entry from the list of entries checked for duplicacy
