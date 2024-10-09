@@ -13,3 +13,7 @@ Save then rollback
 Object 2:
 Remove the new entry from the list of entries checked for duplicacy
 
+What the DB has:
+![[Pasted image 20241009153015.png]]
+What we see in CW1:
+![[Pasted image 20241009153036.png]]
