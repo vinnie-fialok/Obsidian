@@ -17,3 +17,6 @@ What the DB has:
 ![[Pasted image 20241009153015.png]]
 What we see in CW1:
 ![[Pasted image 20241009153036.png]]
+
+I think perhaps its to do with cloning, something goes wrong??
+
