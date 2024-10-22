@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WI00812006  - Cant save Tarrif rates due to 'overlapping' dates.md",
+                "file": "daily/2024-10-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WI00812006  - Cant save Tarrif rates due to 'overlapping' dates.md",
+                "file": "daily/2024-10-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WI00812006  - Cant save Tarrif rates due to 'overlapping' dates.md",
+                "file": "daily/2024-10-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WI00812006  - Cant save Tarrif rates due to 'overlapping' dates.md"
+                "file": "daily/2024-10-22.md"
               }
             }
           },
@@ -207,11 +207,12 @@
   },
   "active": "ee2231d4faf8bd2b",
   "lastOpenFiles": [
+    "WI00812006  - Cant save Tarrif rates due to 'overlapping' dates.md",
+    "daily/2024-10-22.md",
     "attachments/Pasted image 20241009153036.png",
     "attachments/Pasted image 20241009153015.png",
     "USXML.md",
     "attachments/Pasted image 20241008160116.png",
-    "WI00812006  - Cant save Tarrif rates due to 'overlapping' dates.md",
     "WI00799571 - (ATR) Add Autorating Log for printing Dest. Charges on HBL,HAWB.md",
     "attachments/Pasted image 20241003114613.png",
     "attachments/Pasted image 20241003114554.png",
@@ -237,7 +238,6 @@
     "daily/2024-09-17.md",
     "attachments/Pasted image 20240917110723.png",
     "attachments/Pasted image 20240917110649.png",
-    "attachments/Pasted image 20240917104459.png",
     "daily/2024-09-12.md",
     "daily/2024-09-10.md",
     "daily/2024-09-04.md",
