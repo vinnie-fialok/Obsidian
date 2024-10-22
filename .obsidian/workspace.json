@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c1ad06d08140603",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rate Query Defect.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-10-22.md",
+                "file": "Rate Query Defect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-10-22.md",
+                "file": "Rate Query Defect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-10-22.md"
+                "file": "Rate Query Defect.md"
               }
             }
           },
@@ -205,10 +217,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee2231d4faf8bd2b",
+  "active": "6c1ad06d08140603",
   "lastOpenFiles": [
-    "WI00812006  - Cant save Tarrif rates due to 'overlapping' dates.md",
     "daily/2024-10-22.md",
+    "Rate Query Defect.md",
+    "WI00812006  - Cant save Tarrif rates due to 'overlapping' dates.md",
     "attachments/Pasted image 20241009153036.png",
     "attachments/Pasted image 20241009153015.png",
     "USXML.md",
@@ -245,7 +258,6 @@
     "FlattenIntoAttributes.md",
     "attachments",
     "Native XML.md",
-    "Making a query with joins.md",
     "Untitled.canvas",
     "images"
   ]
