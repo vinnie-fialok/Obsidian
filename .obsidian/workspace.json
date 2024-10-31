@@ -104,9 +104,23 @@
               "icon": "lucide-file",
               "title": "2024-10-30"
             }
+          },
+          {
+            "id": "071f3e7094579e53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WI00773902 - C3 CMB Calculator Modal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WI00773902 - C3 CMB Calculator Modal"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -259,9 +273,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df4a5d549c007f05",
+  "active": "071f3e7094579e53",
   "lastOpenFiles": [
     "daily/2024-10-30.md",
+    "WI00773902 - C3 CMB Calculator Modal.md",
     "Completed WIS/WI00812006  - Cant save Tarrif rates due to 'overlapping' dates.md",
     "WI00799571 - (ATR) Add Autorating Log for printing Dest. Charges on HBL,HAWB.md",
     "WI00795258 - SQL CPU Usage alert for Rating - E028A0CE3234BC68D1043B12BC1C3228.md",
@@ -297,7 +312,6 @@
     "attachments/Pasted image 20240917110649.png",
     "daily/2024-09-12.md",
     "daily/2024-09-10.md",
-    "daily/2024-09-04.md",
     "daily",
     "attachments",
     "Untitled.canvas",
