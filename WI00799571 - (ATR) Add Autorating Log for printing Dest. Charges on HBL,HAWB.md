@@ -17,3 +17,5 @@ AWBHeaderManager.cs
 ![[Pasted image 20241105163557.png]]
 
 Either need to find a way to make a new HouseBillCharges, so maybe a new ShipmentExportAWBHeader
+
+SQL Query: "SD_Name = 'CommunityRegionsForDirectionCalculation' AND CONVERT(NVARCHAR (4000), CONVERT(VARBINARY(8000), SD_BinaryValue)) LIKE '%e4eb6e97-aa78-4c46-bf86-35b7fbb5fb0e%'" [IsNoResultQuery=false]
