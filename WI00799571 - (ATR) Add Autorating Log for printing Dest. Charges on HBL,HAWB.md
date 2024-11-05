@@ -13,3 +13,4 @@ Potentially use `IAutoRatingGUIInteractor` in `HouseBillCharges::AutoRateOversea
 First time build is called
 ![[Pasted image 20241003114554.png]]****
 ![[Pasted image 20241003114613.png]]
+AWBHeaderManager.cs
