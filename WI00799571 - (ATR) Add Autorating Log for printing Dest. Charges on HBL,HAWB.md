@@ -16,4 +16,4 @@ First time build is called
 AWBHeaderManager.cs
 ![[Pasted image 20241105163557.png]]
 
-Either need to find a way to make a new 
+Either need to find a way to make a new HouseBillCharges, so maybe a new ShipmentExportAWBHeader
