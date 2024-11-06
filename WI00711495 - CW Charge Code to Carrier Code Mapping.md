@@ -1,4 +1,4 @@
 ## Design
-see: `AccChargeCodeForm.Designer.cs`:
-```c#
-```
+see: `AccChargeCodeForm.Designer` lines 1051-1078.
+
+We'll need to add anotehr
