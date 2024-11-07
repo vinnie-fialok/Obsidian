@@ -7,3 +7,9 @@ We want to add 3 more inputs to the `UniversalChargeCodeMappingsGrid`.
 
 **2. Charge code input**
 - make a lookup in `AccChargeCodeUniversalCodeMappingLookups` similar to `UniversalChargeCodeBizoList`. 
+
+A findbox knows to look for a code with the `CodeProperty and DescriptionProperty` attributes, see: [UniversalChargeCodeBizo.cs](https://devops.wisetechglobal.com/wtg/CargoWise/_search?action=contents&text=UniversalChargeCodeBizo&type=code&lp=custom-Project&filters=ProjectFilters%7BCargoWise%7D&pageSize=25&result=DefaultCollection%2FCargoWise%2FDev%2FGBmaster%2F%2FEnterprise%2FProduct%2FOperations%2FMasterFiles%2FBusiness%2FMasterFiles.Business%2FRating%2FUniversalChargeCode%2FUniversalChargeCodeBizo.cs)
+```c#
+[CodeProperty(UniversalChargeCodeBizo.Schema.UCC_Code)]
+[DescriptionProperty(UniversalChargeCodeBizo.Schema.UCC_Description)]
+```
