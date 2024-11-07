@@ -33,7 +33,7 @@ Rather than just having a universal charge code (`UCC`), we now have *either* a 
 2. Add `AUP_ChargeCode` where `AUP_ChargeCode` is either a `UCC` or `CAR`.
 
 **2. Carrier**
-Carrier can either be `RefAirline` or `ShippingLine` or `Orghead`
+Carrier code can refer to either `RefAirline` or `ShippingLine` or `Orgheader`.
 ## Stage 2 - CarrierChargeCode input and module
 ![[Pasted image 20241107162731.png]]
 We want to make a non-persistent business object called `CarrierChargeCodeBizo` that is almost identical to the `UniversalChargeCodeBizo`. We want to make an associate module for it called `CarrierChargeCodeModule`. We can extract most of the logic for this from `UniversalChargeCodeModule` see: [OnCustomGridLoad](https://devops.wisetechglobal.com/wtg/CargoWise/_git/Dev?path=%2FEnterprise%2FProduct%2FOperations%2FRating%2FRating.Module%2FUniversalChargeCode%2FUniversalChargeCodeModule.cs&version=GBmaster&line=61&lineEnd=154&lineStartColumn=3&lineEndColumn=4&lineStyle=plain&_a=contents).
