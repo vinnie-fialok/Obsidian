@@ -27,8 +27,12 @@ ALTER TABLE [AccChargeCodeUniversalCodeMapping] WITH NOCHECK
 ALTER TABLE [AccChargeCodeUniversalCodeMapping] WITH NOCHECK
 ADD CONSTRAINT [Constraint_AUP_UniversalChargeCode] CHECK (AUP_UniversalChargeCode <> '');
 ```
+**1. Universal Charge Code**
+Rather than just having a universal charge code (`UCC`), we now have *either* a `UCC` or a Carrier Charge Code (`CAR`).
+1. Remove `AUP_UniversalChargeCode`
+2. Add `AUP_ChargeCode` where `AUP_ChargeCode` is either a `UCC` or `CAR`.
 
-To match this new table, we will need to 
+**2. **
 
 ## Stage 2 - CarrierChargeCode input and module
 ![[Pasted image 20241107162731.png]]
