@@ -1,4 +1,10 @@
-## Design
+## Stage 1 - Schema update + DB Transformation
+
+
+## Stage 2 - CarrierChargeCode input and module
+![[Pasted image 20241107162731.png]]
+We want to make a non-persistent business object called `CarrierChargeCodeBizo` that is almost identical to the `UniversalChargeCodeBizo`. We want to make an associate module for it called `CarrierChargeCodeModule`. We can extract most of the logic for this from `UniversalChargeCodeModule` see: 9
+## Stage 3 - Linking it all together + Validation
 UI goes in `AccChargeCodeForm.Designer.cs` in `MasterFiles.GUI` solution.
 We want to add 3 more inputs to the `UniversalChargeCodeMappingsGrid`.
 **1. Type input**
