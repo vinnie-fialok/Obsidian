@@ -6,4 +6,4 @@ We want to add 3 more inputs to the `UniversalChargeCodeMappingsGrid`.
 - make a new lookup in `AccChargeCodeUniversalCodeMappingLookups.cs` in the Rating solution that is of type CodeDescriptionPairList
 
 **2. Charge code input**
-- make a lookup in 
+- make a lookup in `AccChargeCodeUniversalCodeMappingLookups` similar to `UniversalChargeCodeBizoList`. 
