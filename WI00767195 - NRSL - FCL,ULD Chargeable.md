@@ -57,3 +57,8 @@ rounding.RoundingType = RatingRoundingTypes.Chargeable;
 
 using (DataRegistryRating.Instance.DefaultRounding.SetTemporaryValue(Guid.Empty, Guid.Empty, Guid.Empty, roundings))
 ```
+
+```json
+// From CW1
+{Origin:HKHKG,HKG,HK,FARG; Destination:USLAX,LAX,US,USWG; Carrier:Code:;SCACCode:;IATACode:AC;Source:Rate Selection Search Criteria;C1Code; Container:Code:20GP;ISOType:22G0;ISOTypeGroups:;IATAULDRateClass:,Code:40GP;ISOType:42G0;ISOTypeGroups:;IATAULDRateClass:; ServiceLevel:STD; EffectiveDate:12/11/2024; EndDate:12/11/2024}
+```
