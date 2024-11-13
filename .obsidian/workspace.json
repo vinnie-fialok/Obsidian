@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WI00767195 - NRSL - FCL,ULD Chargeable.md",
+                "file": "daily/2024-11-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WI00767195 - NRSL - FCL,ULD Chargeable"
+              "title": "2024-11-13"
             }
           }
         ]
@@ -177,6 +177,7 @@
   "active": "c350a7d8040036c1",
   "lastOpenFiles": [
     "WI00767195 - NRSL - FCL,ULD Chargeable.md",
+    "daily/2024-11-13.md",
     "WI00799571 - (ATR) Add Autorating Log for printing Dest. Charges on HBL,HAWB.md",
     "Completed WIS/WI00812006  - Cant save Tarrif rates due to 'overlapping' dates.md",
     "daily/2024-10-22.md",
@@ -211,7 +212,6 @@
     "Completed WIS/WI00766730 - (OOQ) (BWQ) - Searching Filter for OOQ, QB, BWQ and Support for Universal Shipment.md",
     "Queries and Entity Framework.md",
     "Reports.md",
-    "Nuget Deployment Demo.md",
     "Completed WIS",
     "daily",
     "attachments",
