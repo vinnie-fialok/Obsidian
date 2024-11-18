@@ -24,4 +24,7 @@
               </wtg-menu>
             </div>
           </template>
+
+    const cmbCalculatorModalRef = ref<InstanceType<typeof CmbCalculatorModal>>();
+    const showCmbCalculatorModal = (rateLineId: string) => cmbCalculatorModalRef.value?.show(rateLineId);
 ```
