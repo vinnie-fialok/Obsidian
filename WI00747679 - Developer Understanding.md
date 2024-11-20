@@ -21,3 +21,6 @@ becomes
 
 > [!Question] Should we auto-generate the **container #**?
 ## SEA LCL Containers
+![[Pasted image 20241121102544.png]]
+
+> [!question] Do we fill **Consignor**
