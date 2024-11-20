@@ -17,5 +17,7 @@ becomes
 ![[Pasted image 20241120153443.png]]
 - **WQ**: KG by default
 - **Gross Weight**: based upon container type
+- **Container #**: Leave blank
 
+> [!Question] Should we auto-generate the **container #**?
 ## SEA LCL Containers
