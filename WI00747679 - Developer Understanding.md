@@ -9,7 +9,7 @@ We get the **Transport Mode, Container Mode, Origin, Destination, Effective On**
 
 We get the **Carrier, Service Level, Payment Term** we get from the `RateResultDto` returned when searching for rates:
 ![[Pasted image 20241120154522.png]]
-
+**Origin, Destination** are
 ## SEA FCL Containers
 We get the **Number of Container, Commodity Code, Container Type** from the cargo details modal, e.g.
 ![[Pasted image 20241120153431.png]]
