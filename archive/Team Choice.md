@@ -7,7 +7,7 @@
 - Challenging work
 
 ### Cons
-- Some work is not as interesting. E.g. filters and usxml. I want to do things that actually seem to matter.
+- Some work is not as interesting. E.g. filters and usxml. 
 
 ## PAVE
 ### Pros
