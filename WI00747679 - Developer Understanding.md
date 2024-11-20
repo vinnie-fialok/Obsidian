@@ -23,4 +23,5 @@ becomes
 ## SEA LCL Containers
 ![[Pasted image 20241121102544.png]]
 
-> [!question] Do we fill **Consignor**
+> [!question] Do we fill **Consignor** from the User's org?
+
