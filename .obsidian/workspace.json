@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "WI00747679 - Developer Understanding"
             }
+          },
+          {
+            "id": "d4a65933f6f6ee3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WI00753743 -(RS) Moving Mapping From Rates Service to RefData.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WI00753743 -(RS) Moving Mapping From Rates Service to RefData"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -203,8 +217,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "291a605cb933f714",
+  "active": "d4a65933f6f6ee3b",
   "lastOpenFiles": [
+    "WI00747679 - Developer Understanding.md",
+    "WI00753743 -(RS) Moving Mapping From Rates Service to RefData.md",
     "attachments/Pasted image 20241125155745.png",
     "WI00767195 - NRSL - FCL,ULD Chargeable.md",
     "WI00773902 - C3 CMB Calculator Modal.md",
@@ -214,7 +230,6 @@
     "Completed WIS/WiseLine BUg.md",
     "Completed WIS/WI - Automate Performance Reports.md",
     "Queries and Entity Framework.md",
-    "WI00747679 - Developer Understanding.md",
     "attachments/Pasted image 20241121102544.png",
     "attachments/Pasted image 20241120154522.png",
     "attachments/Pasted image 20241120153627.png",
@@ -232,7 +247,6 @@
     "daily/2024-11-20.md",
     "attachments/Pasted image 20241114164445.png",
     "attachments/Pasted image 20241114164151.png",
-    "attachments/Pasted image 20241114162417.png",
     "daily/2024-11-13.md",
     "Completed WIS/WI00812006  - Cant save Tarrif rates due to 'overlapping' dates.md",
     "daily/2024-10-22.md",
