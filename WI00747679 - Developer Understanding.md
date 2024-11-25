@@ -18,7 +18,7 @@ becomes
 - **WQ**: KG by default
 - **Gross Weight**: based upon container type
 - **Container #**: Leave blank
+## SEA LCL Containers
+![[Pasted image 20241121102544.png]]
+Fill the above, put the user's org in `Consigner` box. The arrows point to chargeable, weight, and volume as in C3.
 
-> [!Question] Should we auto-generate the **container #**?
-## SEA LCL
-![[Pasted image 20241125155745.png]]
