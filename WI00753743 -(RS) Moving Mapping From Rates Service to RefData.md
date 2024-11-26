@@ -12,4 +12,5 @@ PAI 07-Nov-24 13:55 GMT+11:00:
 
 1. Remove this
 2. `CodeMapping` isn't used in CW1, the places where it is referenced is dead code:
-	1. 
+	1. The only place where Rating gets `CodeMappings` from RatesService is in [RatesServiceClient](https://devops.wisetechglobal.com/wtg/_search?text=GetChargeCodesWithMappingInfo&type=code&pageSize=25&filters=ProjectFilters%7BCargoWise*RatesService%7D&action=contents&result=DefaultCollection%2FCargoWise%2FDev%2FGBmaster%2F%2FEnterprise%2FProduct%2FOperations%2FMasterFiles%2FBusiness%2FMasterFiles.Business%2FRating%2FAccChargeCodeUniversalCodeMapping%2FAccChargeCodeUniversalCodeMappingLookups.cs). This is used in [here](https://devops.wisetechglobal.com/wtg/CargoWise/_git/Dev?path=%2FEnterprise%2FProduct%2FOperations%2FMasterFiles%2FBusiness%2FMasterFiles.Business%2FRating%2FAccChargeCodeUniversalCodeMapping%2FAccChargeCodeUniversalCodeMappingLookups.cs&_a=contents&version=GBmaster) in `AccChargeCodeUniversalCodeMappingLookups.cs`.
+	2. 
