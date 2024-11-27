@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-11-26.md",
+                "file": "daily/2024-11-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-26"
+              "title": "2024-11-27"
             }
           }
         ],
@@ -219,8 +219,9 @@
   },
   "active": "d4a65933f6f6ee3b",
   "lastOpenFiles": [
-    "WI00753743 -(RS) Moving Mapping From Rates Service to RefData.md",
     "daily/2024-11-26.md",
+    "daily/2024-11-27.md",
+    "WI00753743 -(RS) Moving Mapping From Rates Service to RefData.md",
     "WI00747679 - Developer Understanding.md",
     "attachments/Pasted image 20241125155745.png",
     "WI00767195 - NRSL - FCL,ULD Chargeable.md",
@@ -255,7 +256,6 @@
     "daily/2024-10-30.md",
     "daily/2024-11-12.md",
     "daily/2024-11-06.md",
-    "daily/2024-10-02.md",
     "Completed WIS",
     "daily",
     "attachments",
