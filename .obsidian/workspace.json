@@ -69,16 +69,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WI00753743 -(RS) Moving Mapping From Rates Service to RefData - Design.md",
+                "file": "WI00799571 - (ATR) Add Autorating Log for printing Dest. Charges on HBL,HAWB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WI00753743 -(RS) Moving Mapping From Rates Service to RefData - Design"
+              "title": "WI00799571 - (ATR) Add Autorating Log for printing Dest. Charges on HBL,HAWB"
+            }
+          },
+          {
+            "id": "ac7373b52fb062f5",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Completed WIS/WI00767195 - NRSL - FCL,ULD Chargeable.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (WI00767195 - NRSL - FCL,ULD Chargeable)"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -217,8 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,45 +243,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "910de8ee23c1fe42",
+  "active": "7cfba00fd2f5f000",
   "lastOpenFiles": [
-    "WI00767195 - NRSL - FCL,ULD Chargeable.md",
+    "Autorating Log Setup.md",
+    "attachments/Pasted image 20241204112020.png",
+    "attachments/Pasted image 20241204112006.png",
+    "attachments/Pasted image 20241204111951.png",
+    "Queries and Entity Framework.md",
+    "WI00753743 -(RS) Moving Mapping From Rates Service to RefData - Design.md",
     "WI00773902 - C3 CMB Calculator Modal.md",
+    "Completed WIS/WI00767195 - NRSL - FCL,ULD Chargeable.md",
+    "WI00799571 - (ATR) Add Autorating Log for printing Dest. Charges on HBL,HAWB.md",
     "WI00795258 - SQL CPU Usage alert for Rating - E028A0CE3234BC68D1043B12BC1C3228.md",
+    "WI00711495 - CW Charge Code to Carrier Code Mapping.md",
+    "USXML.md",
+    "daily/2024-12-03.md",
+    "WI00747679 - Developer Understanding.md",
     "daily/2024-11-26.md",
     "daily/2024-11-27.md",
-    "WI00753743 -(RS) Moving Mapping From Rates Service to RefData - Design.md",
-    "WI00747679 - Developer Understanding.md",
     "attachments/Pasted image 20241125155745.png",
-    "WI00799571 - (ATR) Add Autorating Log for printing Dest. Charges on HBL,HAWB.md",
     "Completed WIS/WI00826865 - (URS) Display commodities not working.md",
     "Completed WIS/WiseLine BUg.md",
     "Completed WIS/WI - Automate Performance Reports.md",
-    "Queries and Entity Framework.md",
     "attachments/Pasted image 20241121102544.png",
     "attachments/Pasted image 20241120154522.png",
     "attachments/Pasted image 20241120153627.png",
     "attachments/Pasted image 20241120153623.png",
     "attachments/Pasted image 20241120153443.png",
     "attachments/Pasted image 20241120153431.png",
-    "attachments/Pasted image 20241120153157.png",
-    "WI00711495 - CW Charge Code to Carrier Code Mapping.md",
-    "USXML.md",
     "archive/Team Choice.md",
     "archive/Reports.md",
     "Completed WIS/Rate Query Defect.md",
     "archive/InfoCircle.md",
     "archive",
     "daily/2024-11-20.md",
-    "attachments/Pasted image 20241114164445.png",
-    "attachments/Pasted image 20241114164151.png",
     "daily/2024-11-13.md",
     "Completed WIS/WI00812006  - Cant save Tarrif rates due to 'overlapping' dates.md",
     "daily/2024-10-22.md",
     "daily/2024-10-23.md",
-    "daily/2024-10-30.md",
-    "daily/2024-11-12.md",
-    "daily/2024-11-06.md",
     "Completed WIS",
     "daily",
     "attachments",
