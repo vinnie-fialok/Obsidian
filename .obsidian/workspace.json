@@ -81,17 +81,32 @@
             "id": "ac7373b52fb062f5",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Completed WIS/WI00767195 - NRSL - FCL,ULD Chargeable.md",
-                "staged": false
+                "file": "Autorating Log Setup.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (WI00767195 - NRSL - FCL,ULD Chargeable)"
+              "icon": "lucide-file",
+              "title": "Autorating Log Setup"
+            }
+          },
+          {
+            "id": "2358a9cca3132e65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Applying Rates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Applying Rates"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -230,7 +245,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,22 +259,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7cfba00fd2f5f000",
+  "active": "2358a9cca3132e65",
   "lastOpenFiles": [
     "Autorating Log Setup.md",
+    "Applying Rates.md",
+    "Completed WIS/WI00773902 - C3 CMB Calculator Modal.md",
+    "WI00753743 -(RS) Moving Mapping From Rates Service to RefData - Design.md",
+    "WI00747679 - Developer Understanding.md",
+    "WI00711495 - CW Charge Code to Carrier Code Mapping.md",
+    "daily/2024-11-13.md",
     "attachments/Pasted image 20241204112020.png",
     "attachments/Pasted image 20241204112006.png",
     "attachments/Pasted image 20241204111951.png",
     "Queries and Entity Framework.md",
-    "WI00753743 -(RS) Moving Mapping From Rates Service to RefData - Design.md",
-    "WI00773902 - C3 CMB Calculator Modal.md",
     "Completed WIS/WI00767195 - NRSL - FCL,ULD Chargeable.md",
     "WI00799571 - (ATR) Add Autorating Log for printing Dest. Charges on HBL,HAWB.md",
     "WI00795258 - SQL CPU Usage alert for Rating - E028A0CE3234BC68D1043B12BC1C3228.md",
-    "WI00711495 - CW Charge Code to Carrier Code Mapping.md",
     "USXML.md",
     "daily/2024-12-03.md",
-    "WI00747679 - Developer Understanding.md",
     "daily/2024-11-26.md",
     "daily/2024-11-27.md",
     "attachments/Pasted image 20241125155745.png",
@@ -277,7 +295,6 @@
     "archive/InfoCircle.md",
     "archive",
     "daily/2024-11-20.md",
-    "daily/2024-11-13.md",
     "Completed WIS/WI00812006  - Cant save Tarrif rates due to 'overlapping' dates.md",
     "daily/2024-10-22.md",
     "daily/2024-10-23.md",
