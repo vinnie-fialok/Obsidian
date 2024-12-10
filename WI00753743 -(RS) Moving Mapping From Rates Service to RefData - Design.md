@@ -10,7 +10,7 @@ My understanding is that these two table are different because `Ref_WTG_Containe
 
 To me it seems like the original design for this may have been benefited by using CW1 `RefContainer` and migrating CargoGuide/ CargoSphere ref data to the CW1 schema rather than making another table `Ref_WTG_Container` but I'm likely missing some background here. This would be non-trivial now as `RefContainer` has more columns with more details compared to `Ref_WTG_Container` (e.g. weight, capacity, width, height ...).
 
-> [!question]
+> [!NOTE]
 > I wanted to ask if you knew why it is the case that WiseRates has its own reference tables at all?
 > **I believe that having duplicate data in tables as would be required if we were to do my proposed solution would not be ideal, but we have had this quirk (I'm not sure if this is an issue or a design decision I don't understand yet) for a long time.**
 
