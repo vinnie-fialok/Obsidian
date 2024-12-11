@@ -2,9 +2,8 @@ The data in the WiseRatse db seems to be used in CW1 and URS as `Universal` data
 ![[Pasted image 20241211094116.png]]
 *UniversalCommodityGroupIntegration* uses `refdata/wiserates/commodities` which in turn uses the `Ref_WTG_Commodity` table.
 
-> [!question] should we just remove `Ref_WTG_Container`??
 
-## Archived thoughts
+## Archived thoughts - Ignore Below
 
 _This would solve our problem and enable us to use RefData_, but I have concerns with this as below.
 
