@@ -2,7 +2,12 @@ The data in the WiseRatse db seems to be used in CW1 and URS as `Universal` data
 ![[Pasted image 20241211094116.png]]
 *UniversalCommodityGroupIntegration* uses `refdata/wiserates/commodities` which in turn uses the `Ref_WTG_Commodity` table.
 
-`Ref_WTG_Container` is redundant and no longer used by RatesService, but, it the API that exposes the table does have some uses. As such, we will also migrate `Ref_WTG_Container` as `RefUniversalContainer`. In the future, we may be able to remove this. (see: [eye](""))
+`Ref_WTG_Container` is redundant and no longer used by RatesService, but, it the API that exposes the table does have some uses. As such, we will also migrate `Ref_WTG_Container` as `RefUniversalContainer`. In the future, we may be able to remove this.
+
+see: 
+```
+https://eye.wtg.ws/s/rating/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-4M,to:now))&_a=(columns:!(fields.HttpUserAgent.keyword,fields.AppName,fields.Environment,fields.RequestPath),filters:!(('$state':(store:appState),meta:(alias:!n,disabled:!f,index:f8950458-4205-5c6f-a4a9-0d4de7746ec3,key:fields.AppName,negate:!f,params:(query:RatesService),type:phrase),query:(match_phrase:(fields.AppName:RatesService))),('$state':(store:appState),meta:(alias:!n,disabled:!f,index:f8950458-4205-5c6f-a4a9-0d4de7746ec3,negate:!f,params:!((meta:(alias:!n,disabled:!f,index:f8950458-4205-5c6f-a4a9-0d4de7746ec3,key:fields.RequestPath,negate:!t,params:(query:%2Fapi%2Fv1%2Frates%2Fsearch),type:phrase),query:(match_phrase:(fields.RequestPath:%2Fapi%2Fv1%2Frates%2Fsearch))),(meta:(alias:!n,disabled:!f,field:fields.RequestPath,index:f8950458-4205-5c6f-a4a9-0d4de7746ec3,key:fields.RequestPath,negate:!t,params:(query:%2Fwtg%2Fstatus),type:phrase),query:(match_phrase:(fields.RequestPath:%2Fwtg%2Fstatus))),('$state':(store:appState),meta:(alias:!n,disabled:!f,field:fields.RequestPath,index:f8950458-4205-5c6f-a4a9-0d4de7746ec3,key:fields.RequestPath,negate:!f,params:(query:api%2Fv1%2Frefdata%2Fwiserates%2Fcontainers),type:phrase),query:(match_phrase:(fields.RequestPath:api%2Fv1%2Frefdata%2Fwiserates%2Fcontainers)))),relation:AND,type:combined),query:()),('$state':(store:appState),meta:(alias:!n,disabled:!f,index:f8950458-4205-5c6f-a4a9-0d4de7746ec3,key:fields.MachineName,negate:!f,type:exists,value:exists),query:(exists:(field:fields.MachineName)))),hideAggregatedPreview:!f,index:f8950458-4205-5c6f-a4a9-0d4de7746ec3,interval:auto,query:(language:kuery,query:''),rowHeight:-1,sort:!(!('@timestamp',desc),!(fields.HttpUserAgent.keyword,asc)),viewMode:documents)
+```
 
 ## Archived thoughts - Ignore Below
 
