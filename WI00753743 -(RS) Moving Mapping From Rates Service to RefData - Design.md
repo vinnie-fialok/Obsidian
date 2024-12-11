@@ -2,6 +2,7 @@ The data in the WiseRatse db seems to be used in CW1 and URS as `Universal` data
 ![[Pasted image 20241211094116.png]]
 *UniversalCommodityGroupIntegration* uses `refdata/wiserates/commodities` which in turn uses the `Ref_WTG_Commodity` table.
 
+`Ref_WTG_Container` is redundant and no longer used by RatesService, but, it the API that exposes the table does have some uses. As such, we will also migrate `Ref_WTG_Container` as `RefUniversalContainer`. In the future, we may be able to remove this. (see: [eye](""))
 
 ## Archived thoughts - Ignore Below
 
