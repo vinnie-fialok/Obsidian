@@ -1,13 +1,13 @@
 - [x] Season
 - [x] Allen
 - [ ] Azi
-- [ ] Oscar
-- [ ] Mitchell
+- [x] Oscar
+- [x] Mitchell
 - [x] Tyler
-- [ ] Gordon
+- [x] Gordon
 - [ ] Chris
-- [ ] Amy
-- [ ] Sergii
+- [x] Amy
+- [x] Sergii
 - [ ] Pedram
 - [ ] Nam
 - [x] Ephraim
