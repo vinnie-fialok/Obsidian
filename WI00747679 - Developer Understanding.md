@@ -22,3 +22,5 @@ becomes
 ![[Pasted image 20241121102544.png]]
 Fill the above, put the user's org in `Consigner` box. The arrows point to chargeable, weight, and volume as in C3.
 
+
+![[Pasted image 20241219110351.png]]
