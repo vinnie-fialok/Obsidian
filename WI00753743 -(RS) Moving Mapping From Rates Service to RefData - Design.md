@@ -15,7 +15,7 @@ _This would solve our problem and enable us to use RefData_, but I have concerns
 
 I find that this solution may be confusing since tables `RefContainer` and `RefUniversalContainer` (_which in WiseRates is_ `Ref_WTG_Container`) would represent the same entity, that is, container types. There would also be some duplicated data across these tables such as the `20GP` container.
 
-My understanding is that these two table are different because `Ref_WTG_Container` only requires the container types used by `CargoSphere`/ `CargoGuide`? Because of this `RefContainer` has container types `Ref_WTG_Container` does not have (e.g. `AAA` container type) and `Ref_WTG_Container` has container types `RefContainer` does not have (e.g. `42G2` container type). (see [[WI00753743  - RefContainerCodes]] and [[WI00753743  - WiseRates RefContainerCodes]])
+My understanding is that these two table are different because `Ref_WTG_Container` only requires the container types used by `CargoSphere`/ `CargoGuide`? Because of this `RefContainer` has container types `Ref_WTG_Container` does not have (e.g. `AAA` container type) and `Ref_WTG_Container` has container types `RefContainer` does not have (e.g. `42G2` container type). (see (WI00753743  - RefContainerCodes) and [[WI00753743  - WiseRates RefContainerCodes]])
 
 To me it seems like the original design for this may have been benefited by using CW1 `RefContainer` and migrating CargoGuide/ CargoSphere ref data to the CW1 schema rather than making another table `Ref_WTG_Container` but I'm likely missing some background here. This would be non-trivial now as `RefContainer` has more columns with more details compared to `Ref_WTG_Container` (e.g. weight, capacity, width, height ...).
 
@@ -27,3 +27,10 @@ To me it seems like the original design for this may have been benefited by usin
 - `wiserates/carrierwhitelist` used by UniversalRateService
 
 So far `ChargeCodeMapping` and `CommodityGroups` are unique to Wiserates.
+
+
+```mermaid
+stateDiagram-v2
+	state0
+	[*] --> state0
+```
